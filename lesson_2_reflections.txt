@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+    It creates a .git folder that is hidden.
+    I can commmit all files and later compare different version.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+    Working directory is where you do your work
+    Staging area is where you add your file(s) that you want to commit
+    The value is that it give you a change to commit logically
