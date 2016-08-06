@@ -10,3 +10,7 @@ Describe the differences between forks, clones, and branches. When would you use
         I would use it when I want a copy on my GitHub
     Clones - to copy from one repository to another locally or from GitHub to Local pc
     Branches - are extended version of master.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+    Benefit is that I can update local copy while I have internet access even if I don't want to merge it with my branch.
+    After internet access is not available, I still have the capability to merge.
